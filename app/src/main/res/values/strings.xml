@@ -1,1 +1,3 @@
-xml
+<resources>
+    <string name="app_name">OmniVoice Client</string>
+</resources>
